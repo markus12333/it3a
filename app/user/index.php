@@ -11,6 +11,6 @@
 </head>
 <body>
     <h1>Hello user</h1>
-    <a href="<?= BASE_URL ?>/auth/signout.php">Sign Out</a>
+    <  <a href="../auth/signout.php">Sign Out</a>
 </body>
 </html>

@@ -7,11 +7,11 @@ require_once(__DIR__ . '/../functions/auth.php');
 require_once(__DIR__ . '/../functions/redirect.php');
 require_once(__DIR__ . '/../functions/sessions.php');
 
-define('BASE_URL', 'http://localhost/IT34A');
+define('BASE_URL', 'http://localhost/IT3A');
 //http://localhost/IT34A/includes/test-logger.php
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'it34a_lab_db');
+define('DB_NAME', 'it3a_lab_db');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 
